@@ -3,105 +3,151 @@
 </h1>  
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-  
-<h1 align="center">  
-  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00);   
-               -webkit-background-clip: text;   
-               color: transparent;   
-               font-size: 45px;   
-               font-weight: bold;">  
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-    ✨𝐀𝐃𝐄𝐄𝐋-𝐌𝐃✨  
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-  </span>  
-</h1>  
-  
-<p align="center">  
-  <b>ᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ s ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <span style="color:#00FFFF">ᴀᴅᴇᴇʟ</span> 🚀</b>  
-</p>  
-  
----  
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-## ⭐ 𝐅𝐎𝐑𝐊 & 𝐒𝐓𝐀𝐑  
-<p align="center">  
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork">  
-    <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />  
-  </a>  
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">  
-    <img src="https://img.shields.io/github/stars/Adeel-Xtech/ADEEL-MD?style=for-the-badge&color=gold&logo=github" />  
-  </a>  
-</p>  
-<p align="center">💡 ᴅᴏɴ’ᴛ ғᴏʀɢᴇᴛ ᴛᴏ <b>ғᴏʀᴋ</b> s <b>sᴛᴀʀ ⭐</b> ᴛʜɪs ʀᴇᴘᴏ ʙᴇғᴏʀᴇ ᴜsɪɴɢ!</p>  
-  
----  
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-## 🔑 𝐆𝐄𝐓 𝐏𝐀𝐈𝐑  
-<p align="center">  
-  <a href="https://adeel-md-pair-1.onrender.com">  
-    <img src="https://img.shields.io/badge/Get-PAIR_CODE-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" width="190" />  
-  </a>  
-</p>  
-<p align="center">📲 ᴄʟɪᴄᴋ ᴀʙᴏᴠᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ʏᴏᴜʀ <b>sᴇssɪᴏɴ ɪᴅ</b>.</p>  
-  
----  
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘 𝐍𝐎𝐖  
-<p align="center">  
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/ADEEL-MD">  
-    <img src="https://img.shields.io/badge/Deploy-Heroku-8A2BE2?style=for-the-badge&logo=heroku&logoColor=white" width="200" />  
-  </a>  
-</p>  
 
-<p align="center">🪸 𝐃𝐄𝐏𝐋𝐎𝐘 𝐇𝐄𝐑𝐎𝐊𝐔 🐍🍷</p>  
-  
----  
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-## 📡 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐒  
-<p align="center">  
-  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C">  
-    <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
-  </a>  
-  <a href="https://api.whatsapp.com/send?phone=+923035512967&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">  
-    <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />  
-  </a>  
-</p>  
-<p align="center">📢 sᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴡɪᴛʜ <b>ᴄʜᴀɴɴᴇʟ</b> & <b>ᴏᴡɴᴇʀ</b>.</p>  
-  
----  
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-## ⚡𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒  
-- ✅ MEDIA DOWNLOAD 📺    
-- ✅ GROUP FEATURE 𓆩🐍    
-- ✅ AUTO REPLY 🍨    
-- ✅ AUTO RECORDING / HYPING    
-✨ MORE FEATURES ON THIS BOARD ✨    
-  
----  
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-## 𝐑𝐄𝐌𝐈𝐍𝐃𝐄𝐑  
-❌ Not affiliated with WhatsApp Inc.  
-⚡ Misuse = ban risk  
-📌 Use responsibly.  
-🛡️ Owner not responsible.    
-  
----  
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-## 📝 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑  
-🎯 Learning & Fun purpose only  
-❌ Don’t sell or misuse  
-✨ Respect the creator  
-  
----  
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
-<h2 align="center">  
-  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">𝐀𝐃𝐄𝐄𝐋-𝐌𝐃</span>✨🌈  
-</h2>  
+<!-- WELLCOME SVG -->
+<p align="center">
+  <img src="./ADEEL/wellcome.svg" alt="WELLCOME" width="900"/>
+</p>
+
+<!-- DECORATIVE LINE -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- DEVELOPER NAME SVG -->
+<p align="center">
+  <a href="https://github.com/Adeel-Xtech" target="_blank">
+    <img src="./ADEEL/adeel.svg" width="300" alt="Developer — ADEEL (Gold 3D)">
+  </a>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- CHANNEL UPDATE SVG -->
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C" target="_blank">
+    <img src="./ADEEL/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
+  </a>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ADEEL-MD&label=VIEWS&style=square&color=blue" />
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- FORK & STAR SVG (BUTTON) -->
+<p align="center">
+  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork" target="_blank">
+    <img src="./ADEEL/forkstar.svg" width="180" alt="Fork Star Bot Repo"/>
+  </a>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- PAIR CODE SVG (BUTTON) -->
+<p align="center">
+  <a href="https://adeel-md-pair-1.onrender.com" target="_blank">
+    <img src="./ADEEL/paircode.svg" width="195" alt="PAIR_CODE – Device Session ID">
+  </a>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- DEPLOYMENT TITLE SVG -->
+<p align="center">
+  <img src="./ADEEL/deployment.svg" width="600" alt="ADEEL MD — Deployment Options">
+</p>
+
+<!-- ONLY HEROKU DEPLOY BUTTON (ALL OTHERS REMOVED) -->
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/ADEEL-MD" target="_blank">
+    <img src="./ADEEL/heroku.svg" width="250" alt="Heroku Deploy"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🪸 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴘʟᴀᴛғᴏʀᴍ 🪸</b>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- FEATURE BOT SVG -->
+<p align="center">
+  <img src="./ADEEL/feature-bot.svg" alt="Feature Bot" width="900"/>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- YOUTUBE SVG -->
+<p align="center">
+  <a href="https://youtube.com/@adeel?si=ZVANSbKM0yajAbl_" target="_blank">
+    <img src="./ADEEL/youtube.svg" alt="YouTube" width="250"/>
+  </a>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- LICENSE ONLY (ACTIVE REMOVED) -->
+<p align="center">
+  <img src="./ADEEL/license.svg" alt="License" width="200"/>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- DISCLAIMER -->
+<h2 align="center">
+  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); -webkit-background-clip: text; color: transparent; font-size: 35px;">⚠️ 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 ⚠️</span>
+</h2>
+
+<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
+  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑</h3>
+  <p style="color: #ffffff;">❌ 𝐍𝐨𝐭 𝐚𝐟𝐟𝐢𝐥𝐢𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐈𝐧𝐜.<br>⚡ 𝐌𝐢𝐬𝐮𝐬𝐞 = 𝐁𝐚𝐧 𝐑𝐢𝐬𝐤<br>🛡️ 𝐎𝐰𝐧𝐞𝐫 𝐧𝐨𝐭 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐥𝐞</p>
+</div>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- FOOTER -->
+<h2 align="center">  
+  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">ᴀᴅᴇᴇʟ-ᴍᴅ</span>✨🌈  
+</h2>
+
+<!-- CONTRIBUTORS TYPING ANIMATION -->
+<div style="margin-top:20px">
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90" alt="Contributors Typing">
+  </p>
+</div>
+
+<!-- STARGAZERS AND FORKERS ROSTER -->
+<p align="center">
+  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
+    <img src="http://reporoster.com/stars/dark/Adeel-Xtech/ADEEL-MD" alt="Stargazers Repo Roster">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/network/members">
+    <img src="http://reporoster.com/forks/dark/Adeel-Xtech/ADEEL-MD" alt="Forkers Repo Roster">
+  </a>
+</p>
+
+<!-- DECORATIVE LINE -->
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<!-- BACK TO TOP -->
+<p align="center">
+  <a href="https://github.com/Adeel-Xtech/ADEEL-MD">
+    <img src="https://img.shields.io/badge/⬆️-𝐁𝐀𝐂𝐊 𝐓𝐎 𝐓𝐎𝐏-⬆️?style=for-the-badge&color=ff69b4" />
+  </a>
+</p>
